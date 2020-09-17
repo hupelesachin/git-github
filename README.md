@@ -1,2 +1,2 @@
 # git-github
-sample to learn
+sample to learn as tutorial purpose
